@@ -1,7 +1,7 @@
 # E-COMMERCE WEBSITE
 This project is an e-commerce website powered by commercejs and stripe.
 
-
+!alt[https://github.com/SmriG/E-commerce/blob/master/E-commerce.png]
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
